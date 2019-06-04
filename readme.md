@@ -1,4 +1,7 @@
-创建文件
+
+
+运行 Laravel Mix: npm run watch-poll
+
 
 
 
