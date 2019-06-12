@@ -6,17 +6,6 @@
         <div class="col-md-10 offset-md-1">
             <div class="card ">
 
-                <div class="card-header">
-                    <h1>
-                        Topic /
-                        @if($topic->id)
-                            Edit #{{ $topic->id }}
-                        @else
-                            Create
-                        @endif
-                    </h1>
-                </div>
-
                 <div class="card-body">
                     <h2 class="">
                         <i class="far fa-edit"></i>
