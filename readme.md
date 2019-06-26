@@ -2,7 +2,8 @@
 
 运行 Laravel Mix: npm run watch-poll
 
-
+运行 Laravel Mix
+    $ npm run watch-poll
 
 
 计划任务：
